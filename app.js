@@ -1,4 +1,21 @@
-const colors = ['green', 'red', 'rgba(133,122,200)', '#f15025'];
+const colors = [
+  'aqua',
+  'black',
+  'blue',
+  'fuchsia',
+  'gray',
+  'green',
+  'lime',
+  'maroon',
+  'navy',
+  'olive',
+  'purple',
+  'red',
+  'silver',
+  'teal',
+  'white',
+  'yellow',
+];
 
 const btn = document.getElementById('btn');
 const color = document.querySelector('.color');
